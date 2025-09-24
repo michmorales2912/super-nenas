@@ -1,7 +1,7 @@
 # 📂 Super-Nenas
 
 Este proyecto es un repositorio de práctica para aprender y documentar el proceso de creación de un repositorio con **Git** y **GitHub**.  
-Incluye los pasos básicos para inicializar, configurar y realizar el primer commit, así como ejemplos de problemas comunes y sus soluciones.
+Aqui se documentara el proyecto de una página web para la presentación de un videojuego de plataformas inspirado en las chicas superpoderosas. 
 
 ---
 
